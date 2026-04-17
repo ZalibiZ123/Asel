@@ -35,7 +35,7 @@ const projects = [
   },
   {
     id: 2,
-    logo: "logo2.PNG",
+    logo: "logo2.png",
     companyName: "Магазин канцелярских товаров Ерзат",
     shortDescription:
       "Самый крупный магазин розничной и оптовой продажи канцелярских товаров в столице!",
